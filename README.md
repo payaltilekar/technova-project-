@@ -95,3 +95,24 @@ sudo apt install apache2
 sudo systemctl start apache2
 sudo systemctl status apache2
 
+## 🌐 Live Demo
+
+The TechNova website is available online for demonstration through GitHub Pages.
+
+🔗 **Live Website:**  
+https://payaltilekar.github.io/technova-project-/
+
+### 🖥️ Internship Implementation
+
+The main internship implementation was performed using:
+
+- 🐧 Ubuntu Linux
+- 💻 VirtualBox
+- 🌐 Apache2 Web Server
+- 📁 `/var/www/html`
+
+### 🚀 Portfolio Deployment
+
+For portfolio and demonstration purposes, the project source code was uploaded to GitHub and the website was additionally deployed using GitHub Pages.
+
+This allows the project to be viewed online without requiring the Ubuntu virtual machine to be running.
